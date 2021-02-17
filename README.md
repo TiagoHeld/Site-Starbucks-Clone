@@ -5,3 +5,4 @@ Site Starbucks feito em cima do Template NicePage.
 * Grid Layout
 * Responsividade
 
+Site funcionando: <https://tiagoheld.github.io/Site-Starbucks-Clone/>
